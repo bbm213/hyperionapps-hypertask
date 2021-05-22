@@ -31,6 +31,6 @@ HyperTask is built with multiple tools to make it available for different types 
 
 ## Content Release
 Head to our website and view our public calendar to a general idea of our content release plan
-[HyperionApps Calendar](https://hyperioapps.com/hyperionapps-calendar)
+[HyperionApps Calendar](https://hyperionapps.com/hyperionapps-calendar/)
 
 This repo will grow over time so keep an eye on the changes, I hope you will enjoy your time with us.
